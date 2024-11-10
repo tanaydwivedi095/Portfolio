@@ -45,7 +45,7 @@ const AboutDetails = () => {
         <ItemLayout className={" col-span-full lg:col-span-12 row-span-2 flex-col items-start"}>
           <center>
             <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-              Experience
+              Skills
             </h2>
           </center>
           <ItemLayout className={"col-span-full"}>
