@@ -84,7 +84,7 @@ const AboutDetails = () => {
           <ItemLayout className={" col-span-full lg:col-span- row-span-2 flex-col items-start"}>
             <div>
               <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-                <b>Machine Learning Intern</b> at Acmegrade from June 14, 2022 to September 16, 2022
+                <b>Machine Learning Intern</b> at Acmegrade from July 14, 2022 to September 16, 2022
               </h2>
               <p className="font-light  text-xs sm:text-sm md:text-base   ">
                 Developed and implemented machine learning methodologies that improved predictive analytics 
